@@ -63,6 +63,10 @@ Ferramenta desenvolvida com JavaScript para:
 
 💼 LinkedIn:
 https://www.linkedin.com/in/wesley-santos-silva-pereira-115330138/
+## 📊 Estatísticas
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wesleyspereira&show_icons=true&theme=github_dark)
+
+![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyspereira&layout=compact&theme=github_dark)
 ---
 ⭐ Obrigado por visitar meu perfil!
