@@ -68,8 +68,8 @@ https://www.linkedin.com/in/wesley-santos-silva-pereira-115330138/
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleypereira&show_icons=true&theme=github_dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wesleypereira&show_icons=true&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypereira&layout=compact&theme=github_dark)
+![Principais idiomas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypereira&layout=compact&theme=github_dark)
 ---
 ⭐ Obrigado por visitar meu perfil!
