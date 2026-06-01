@@ -14,13 +14,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-- HTML
-- CSS
-- JavaScript
-- Firebase
-- Git
-- GitHub
-
 ## Sobre mim
 
 Sou apaixonado por tecnologia e desenvolvimento web.
@@ -32,6 +25,8 @@ Busco evoluir continuamente minhas habilidades e construir projetos reais que ge
 ## Projetos em Destaque
 
 ### 💈 Barbearia Teodoro's
+
+🔗 https://github.com/wesleypereira/App-Barbearia-Teodoros-Cliente
 
 Sistema completo de agendamento online com:
 
@@ -71,6 +66,10 @@ https://www.linkedin.com/in/wesley-santos-silva-pereira-115330138/
 
 ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleypereira&show_icons=true&theme=dark)
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesleypereira&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypereira&layout=compact&theme=github_dark)
 ---
 ⭐ Obrigado por visitar meu perfil!
