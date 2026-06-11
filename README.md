@@ -54,6 +54,7 @@ Ferramenta desenvolvida com JavaScript para:
 - Gerar QR Codes
 - Realizar cálculos matemáticos
 - Interface simples e prática
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wesleyspereira_icons=true&theme=transparent)
 
 ## Contato
 
